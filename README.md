@@ -4,6 +4,8 @@ It`s study projects for LCD Melody. Use native CSS and HTML, in future I will us
 <hr></hr>
 
 Used technologies: 
-[*] HTML5
-[*] CSS3
-[*] JavaScript ES6
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript ES6</li>
+</ul>
